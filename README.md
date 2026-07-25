@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Shubham+👋;A+Creative+Full+Stack+Developer;Building+premium+%26+modern+web+apps;Continuous+learner+%26+problem+solver" alt="Typing SVG" />
+</div>
 
-<!--
-**Shubham0085a/Shubham0085a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Shubham0085a">
+    <img src="https://komarev.github-profile-visitor-counter.herokuapp.com/?username=Shubham0085a&label=Profile%20Views&color=7928CA&style=flat-square" alt="Visitor Counter" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:shubhampandit0085a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/shubham-pandit-0085a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/shubham_pandit_008" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+- 🚀 I’m currently a Full Stack Developer focusing on building clean, high-performance web applications.
+- 💻 Tech enthusiast passionate about open-source contribution and system design.
+- 🌱 Currently diving deep into cloud architectures and microservices.
+- 🎨 I love designing beautiful user interfaces and crafting premium user experiences.
+- ✉️ Feel free to reach out for collaboration or just a friendly chat!
+
+---
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,py,cpp,c,java,docker,linux,postman,tailwind" alt="My Skills" />
+</div>
+
+---
+
+<!-- START_SECTION:live_info -->
+> ### 🕒 Live Status & Update
+>
+> | Metric | Value |
+> | :--- | :--- |
+> | 📅 **Current Date/Time** | `Saturday, 25 July 2026, 04:17 PM IST` |
+> | ⏳ **Year Progress** | `███████████░░░░░░░░░ 56.35%` |
+> | 💬 **Quote of the Day** | *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry* |
+<!-- END_SECTION:live_info -->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham0085a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shubham's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham0085a&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham0085a&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham0085a&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubham0085a/Shubham0085a/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</p>
+
+<p align="center">
+  🎨 Designed with ❤️ by Shubham | Happy Coding!
+</p>
