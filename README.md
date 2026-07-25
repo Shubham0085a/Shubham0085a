@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Shubham0085a">
-    <img src="https://komarev.github-profile-visitor-counter.herokuapp.com/?username=Shubham0085a&label=Profile%20Views&color=7928CA&style=flat-square" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=Shubham0085a&label=Profile%20Views&color=7928CA&style=flat-square" alt="Visitor Counter" />
   </a>
 </p>
 
@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Saturday, 25 July 2026, 04:24 PM IST` |
+> | 📅 **Current Date/Time** | `Saturday, 25 July 2026, 05:09 PM IST` |
 > | ⏳ **Year Progress** | `███████████░░░░░░░░░ 56.36%` |
-> | 💬 **Quote of the Day** | *“Simplicity is the soul of efficiency.” – Austin Freeman* |
+> | 💬 **Quote of the Day** | *“First, solve the problem. Then, write the code.” – John Johnson* |
 <!-- END_SECTION:live_info -->
 
 ---
@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham0085a&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Shubham0085a&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham0085a/Shubham0085a/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
 
 <p align="center">

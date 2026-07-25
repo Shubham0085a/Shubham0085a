@@ -2,7 +2,7 @@ name: Update README Live Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    - cron: "0 * * * *" # Runs hourly
   push:
     branches:
       - main
@@ -11,6 +11,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
