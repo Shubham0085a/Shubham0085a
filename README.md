@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Monday, 10 August 2026, 12:19 AM IST` |
-> | ⏳ **Year Progress** | `████████████░░░░░░░░ 60.56%` |
-> | 💬 **Quote of the Day** | *“First, solve the problem. Then, write the code.” – John Johnson* |
+> | 📅 **Current Date/Time** | `Monday, 10 August 2026, 01:08 AM IST` |
+> | ⏳ **Year Progress** | `████████████░░░░░░░░ 60.57%` |
+> | 💬 **Quote of the Day** | *“Talk is cheap. Show me the code.” – Linus Torvalds* |
 <!-- END_SECTION:live_info -->
 
 ---
