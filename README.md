@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 18 August 2026, 06:25 PM IST` |
-> | ⏳ **Year Progress** | `████████████░░░░░░░░ 62.95%` |
-> | 💬 **Quote of the Day** | *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* |
+> | 📅 **Current Date/Time** | `Tuesday, 18 August 2026, 07:18 PM IST` |
+> | ⏳ **Year Progress** | `████████████░░░░░░░░ 62.96%` |
+> | 💬 **Quote of the Day** | *“Knowledge is power.” – Francis Bacon* |
 <!-- END_SECTION:live_info -->
 
 ---
