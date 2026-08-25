@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 10:14 AM IST` |
-> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.78%` |
-> | 💬 **Quote of the Day** | *“Knowledge is power.” – Francis Bacon* |
+> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 11:06 AM IST` |
+> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.79%` |
+> | 💬 **Quote of the Day** | *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry* |
 <!-- END_SECTION:live_info -->
 
 ---
