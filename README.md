@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 12:26 PM IST` |
-> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.80%` |
-> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
+> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 01:20 PM IST` |
+> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.81%` |
+> | 💬 **Quote of the Day** | *“Talk is cheap. Show me the code.” – Linus Torvalds* |
 <!-- END_SECTION:live_info -->
 
 ---
