@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 11:06 AM IST` |
-> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.79%` |
-> | 💬 **Quote of the Day** | *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry* |
+> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 12:26 PM IST` |
+> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.80%` |
+> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
 <!-- END_SECTION:live_info -->
 
 ---
