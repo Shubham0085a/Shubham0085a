@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 05:03 PM IST` |
-> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.86%` |
-> | 💬 **Quote of the Day** | *“Java is to JavaScript what car is to Carpet.” – Chris Heilmann* |
+> | 📅 **Current Date/Time** | `Tuesday, 25 August 2026, 06:26 PM IST` |
+> | ⏳ **Year Progress** | `████████████░░░░░░░░ 64.87%` |
+> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
 <!-- END_SECTION:live_info -->
 
 ---
