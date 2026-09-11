@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Friday, 11 September 2026, 02:56 PM IST` |
-> | ⏳ **Year Progress** | `█████████████░░░░░░░ 69.49%` |
-> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
+> | 📅 **Current Date/Time** | `Friday, 11 September 2026, 07:40 PM IST` |
+> | ⏳ **Year Progress** | `█████████████░░░░░░░ 69.54%` |
+> | 💬 **Quote of the Day** | *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry* |
 <!-- END_SECTION:live_info -->
 
 ---
