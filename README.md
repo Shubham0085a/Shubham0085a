@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Sunday, 20 September 2026, 01:52 AM IST` |
-> | ⏳ **Year Progress** | `██████████████░░░░░░ 71.81%` |
-> | 💬 **Quote of the Day** | *“Before software can be reusable it first has to be usable.” – Ralph Johnson* |
+> | 📅 **Current Date/Time** | `Sunday, 20 September 2026, 04:18 AM IST` |
+> | ⏳ **Year Progress** | `██████████████░░░░░░ 71.83%` |
+> | 💬 **Quote of the Day** | *“Make it work, make it right, make it fast.” – Kent Beck* |
 <!-- END_SECTION:live_info -->
 
 ---
