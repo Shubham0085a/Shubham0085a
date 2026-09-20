@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Sunday, 20 September 2026, 11:25 AM IST` |
-> | ⏳ **Year Progress** | `██████████████░░░░░░ 71.92%` |
-> | 💬 **Quote of the Day** | *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler* |
+> | 📅 **Current Date/Time** | `Sunday, 20 September 2026, 04:37 PM IST` |
+> | ⏳ **Year Progress** | `██████████████░░░░░░ 71.97%` |
+> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
 <!-- END_SECTION:live_info -->
 
 ---
