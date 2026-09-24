@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Thursday, 24 September 2026, 09:40 AM IST` |
-> | ⏳ **Year Progress** | `██████████████░░░░░░ 72.99%` |
-> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
+> | 📅 **Current Date/Time** | `Thursday, 24 September 2026, 03:17 PM IST` |
+> | ⏳ **Year Progress** | `██████████████░░░░░░ 73.06%` |
+> | 💬 **Quote of the Day** | *“Make it work, make it right, make it fast.” – Kent Beck* |
 <!-- END_SECTION:live_info -->
 
 ---
