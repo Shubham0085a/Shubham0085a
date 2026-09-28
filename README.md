@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Monday, 28 September 2026, 12:03 PM IST` |
-> | ⏳ **Year Progress** | `██████████████░░░░░░ 74.11%` |
-> | 💬 **Quote of the Day** | *“First, solve the problem. Then, write the code.” – John Johnson* |
+> | 📅 **Current Date/Time** | `Monday, 28 September 2026, 08:42 PM IST` |
+> | ⏳ **Year Progress** | `██████████████░░░░░░ 74.21%` |
+> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
 <!-- END_SECTION:live_info -->
 
 ---
