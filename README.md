@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Thursday, 01 October 2026, 12:30 AM IST` |
-> | ⏳ **Year Progress** | `██████████████░░░░░░ 74.80%` |
-> | 💬 **Quote of the Day** | *“First, solve the problem. Then, write the code.” – John Johnson* |
+> | 📅 **Current Date/Time** | `Thursday, 01 October 2026, 05:05 AM IST` |
+> | ⏳ **Year Progress** | `██████████████░░░░░░ 74.86%` |
+> | 💬 **Quote of the Day** | *“Java is to JavaScript what car is to Carpet.” – Chris Heilmann* |
 <!-- END_SECTION:live_info -->
 
 ---
