@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Thursday, 01 October 2026, 10:45 AM IST` |
-> | ⏳ **Year Progress** | `██████████████░░░░░░ 74.92%` |
-> | 💬 **Quote of the Day** | *“Knowledge is power.” – Francis Bacon* |
+> | 📅 **Current Date/Time** | `Thursday, 01 October 2026, 06:20 PM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 75.01%` |
+> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
 <!-- END_SECTION:live_info -->
 
 ---
