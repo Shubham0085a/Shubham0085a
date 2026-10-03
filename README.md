@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Sunday, 04 October 2026, 02:21 AM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 75.65%` |
-> | 💬 **Quote of the Day** | *“Optimism is an occupational hazard of programming: feedback is the treatment.” – Kent Beck* |
+> | 📅 **Current Date/Time** | `Sunday, 04 October 2026, 05:10 AM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 75.68%` |
+> | 💬 **Quote of the Day** | *“Talk is cheap. Show me the code.” – Linus Torvalds* |
 <!-- END_SECTION:live_info -->
 
 ---
