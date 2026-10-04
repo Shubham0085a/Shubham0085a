@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Sunday, 04 October 2026, 05:36 PM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 75.82%` |
-> | 💬 **Quote of the Day** | *“Make it work, make it right, make it fast.” – Kent Beck* |
+> | 📅 **Current Date/Time** | `Sunday, 04 October 2026, 10:53 PM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 75.88%` |
+> | 💬 **Quote of the Day** | *“Java is to JavaScript what car is to Carpet.” – Chris Heilmann* |
 <!-- END_SECTION:live_info -->
 
 ---
