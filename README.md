@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Thursday, 08 October 2026, 09:46 PM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 76.97%` |
-> | 💬 **Quote of the Day** | *“In order to be irreplaceable one must always be different.” – Coco Chanel* |
+> | 📅 **Current Date/Time** | `Friday, 09 October 2026, 03:25 AM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 77.03%` |
+> | 💬 **Quote of the Day** | *“Java is to JavaScript what car is to Carpet.” – Chris Heilmann* |
 <!-- END_SECTION:live_info -->
 
 ---
