@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Thursday, 08 October 2026, 07:10 AM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 76.80%` |
-> | 💬 **Quote of the Day** | *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* |
+> | 📅 **Current Date/Time** | `Thursday, 08 October 2026, 02:10 PM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 76.88%` |
+> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
 <!-- END_SECTION:live_info -->
 
 ---
