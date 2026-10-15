@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Thursday, 15 October 2026, 06:49 AM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 78.71%` |
-> | 💬 **Quote of the Day** | *“First, solve the problem. Then, write the code.” – John Johnson* |
+> | 📅 **Current Date/Time** | `Thursday, 15 October 2026, 12:42 PM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 78.78%` |
+> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
 <!-- END_SECTION:live_info -->
 
 ---
