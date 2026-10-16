@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Friday, 16 October 2026, 05:42 PM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 79.11%` |
-> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
+> | 📅 **Current Date/Time** | `Friday, 16 October 2026, 10:45 PM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 79.17%` |
+> | 💬 **Quote of the Day** | *“Before software can be reusable it first has to be usable.” – Ralph Johnson* |
 <!-- END_SECTION:live_info -->
 
 ---
