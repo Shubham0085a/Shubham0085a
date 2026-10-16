@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Friday, 16 October 2026, 06:34 AM IST` |
-> | ⏳ **Year Progress** | `███████████████░░░░░ 78.98%` |
-> | 💬 **Quote of the Day** | *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* |
+> | 📅 **Current Date/Time** | `Friday, 16 October 2026, 12:25 PM IST` |
+> | ⏳ **Year Progress** | `███████████████░░░░░ 79.05%` |
+> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
 <!-- END_SECTION:live_info -->
 
 ---
