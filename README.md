@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Friday, 23 October 2026, 09:43 AM IST` |
-> | ⏳ **Year Progress** | `████████████████░░░░ 80.94%` |
-> | 💬 **Quote of the Day** | *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* |
+> | 📅 **Current Date/Time** | `Friday, 23 October 2026, 03:21 PM IST` |
+> | ⏳ **Year Progress** | `████████████████░░░░ 81.00%` |
+> | 💬 **Quote of the Day** | *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry* |
 <!-- END_SECTION:live_info -->
 
 ---
