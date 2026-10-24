@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Sunday, 25 October 2026, 12:50 AM IST` |
-> | ⏳ **Year Progress** | `████████████████░░░░ 81.38%` |
-> | 💬 **Quote of the Day** | *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson* |
+> | 📅 **Current Date/Time** | `Sunday, 25 October 2026, 03:50 AM IST` |
+> | ⏳ **Year Progress** | `████████████████░░░░ 81.42%` |
+> | 💬 **Quote of the Day** | *“Make it work, make it right, make it fast.” – Kent Beck* |
 <!-- END_SECTION:live_info -->
 
 ---
