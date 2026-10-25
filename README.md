@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Sunday, 25 October 2026, 04:33 PM IST` |
-> | ⏳ **Year Progress** | `████████████████░░░░ 81.56%` |
-> | 💬 **Quote of the Day** | *“Java is to JavaScript what car is to Carpet.” – Chris Heilmann* |
+> | 📅 **Current Date/Time** | `Sunday, 25 October 2026, 09:22 PM IST` |
+> | ⏳ **Year Progress** | `████████████████░░░░ 81.62%` |
+> | 💬 **Quote of the Day** | *“Talk is cheap. Show me the code.” – Linus Torvalds* |
 <!-- END_SECTION:live_info -->
 
 ---
