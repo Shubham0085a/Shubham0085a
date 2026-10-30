@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Friday, 30 October 2026, 10:44 AM IST` |
-> | ⏳ **Year Progress** | `████████████████░░░░ 82.87%` |
-> | 💬 **Quote of the Day** | *“Fix the cause, not the symptom.” – Steve Maguire* |
+> | 📅 **Current Date/Time** | `Friday, 30 October 2026, 06:02 PM IST` |
+> | ⏳ **Year Progress** | `████████████████░░░░ 82.95%` |
+> | 💬 **Quote of the Day** | *“Java is to JavaScript what car is to Carpet.” – Chris Heilmann* |
 <!-- END_SECTION:live_info -->
 
 ---
