@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Monday, 02 November 2026, 07:44 AM IST` |
-> | ⏳ **Year Progress** | `████████████████░░░░ 83.65%` |
-> | 💬 **Quote of the Day** | *“Fix the cause, not the symptom.” – Steve Maguire* |
+> | 📅 **Current Date/Time** | `Monday, 02 November 2026, 04:17 PM IST` |
+> | ⏳ **Year Progress** | `████████████████░░░░ 83.75%` |
+> | 💬 **Quote of the Day** | *“First, solve the problem. Then, write the code.” – John Johnson* |
 <!-- END_SECTION:live_info -->
 
 ---
