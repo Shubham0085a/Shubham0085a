@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 10 November 2026, 08:49 AM IST` |
-> | ⏳ **Year Progress** | `█████████████████░░░ 85.86%` |
-> | 💬 **Quote of the Day** | *“Simplicity is the soul of efficiency.” – Austin Freeman* |
+> | 📅 **Current Date/Time** | `Tuesday, 10 November 2026, 05:51 PM IST` |
+> | ⏳ **Year Progress** | `█████████████████░░░ 85.96%` |
+> | 💬 **Quote of the Day** | *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry* |
 <!-- END_SECTION:live_info -->
 
 ---
