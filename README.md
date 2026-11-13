@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Friday, 13 November 2026, 11:29 AM IST` |
-> | ⏳ **Year Progress** | `█████████████████░░░ 86.71%` |
-> | 💬 **Quote of the Day** | *“Simplicity is the soul of efficiency.” – Austin Freeman* |
+> | 📅 **Current Date/Time** | `Friday, 13 November 2026, 07:58 PM IST` |
+> | ⏳ **Year Progress** | `█████████████████░░░ 86.81%` |
+> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
 <!-- END_SECTION:live_info -->
 
 ---
