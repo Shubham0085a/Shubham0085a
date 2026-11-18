@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Wednesday, 18 November 2026, 03:10 AM IST` |
-> | ⏳ **Year Progress** | `█████████████████░░░ 87.99%` |
-> | 💬 **Quote of the Day** | *“Talk is cheap. Show me the code.” – Linus Torvalds* |
+> | 📅 **Current Date/Time** | `Wednesday, 18 November 2026, 08:59 AM IST` |
+> | ⏳ **Year Progress** | `█████████████████░░░ 88.05%` |
+> | 💬 **Quote of the Day** | *“Before software can be reusable it first has to be usable.” – Ralph Johnson* |
 <!-- END_SECTION:live_info -->
 
 ---
