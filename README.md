@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Monday, 23 November 2026, 06:10 AM IST` |
-> | ⏳ **Year Progress** | `█████████████████░░░ 89.39%` |
-> | 💬 **Quote of the Day** | *“Fix the cause, not the symptom.” – Steve Maguire* |
+> | 📅 **Current Date/Time** | `Monday, 23 November 2026, 02:17 PM IST` |
+> | ⏳ **Year Progress** | `█████████████████░░░ 89.48%` |
+> | 💬 **Quote of the Day** | *“Make it work, make it right, make it fast.” – Kent Beck* |
 <!-- END_SECTION:live_info -->
 
 ---
