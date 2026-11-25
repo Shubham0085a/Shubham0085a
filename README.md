@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Tuesday, 24 November 2026, 10:49 PM IST` |
-> | ⏳ **Year Progress** | `█████████████████░░░ 89.85%` |
-> | 💬 **Quote of the Day** | *“In order to be irreplaceable one must always be different.” – Coco Chanel* |
+> | 📅 **Current Date/Time** | `Wednesday, 25 November 2026, 07:36 AM IST` |
+> | ⏳ **Year Progress** | `█████████████████░░░ 89.95%` |
+> | 💬 **Quote of the Day** | *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde* |
 <!-- END_SECTION:live_info -->
 
 ---
