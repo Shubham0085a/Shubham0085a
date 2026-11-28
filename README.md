@@ -39,9 +39,9 @@
 >
 > | Metric | Value |
 > | :--- | :--- |
-> | 📅 **Current Date/Time** | `Saturday, 28 November 2026, 06:52 AM IST` |
-> | ⏳ **Year Progress** | `██████████████████░░ 90.77%` |
-> | 💬 **Quote of the Day** | *“In order to be irreplaceable one must always be different.” – Coco Chanel* |
+> | 📅 **Current Date/Time** | `Saturday, 28 November 2026, 03:31 PM IST` |
+> | ⏳ **Year Progress** | `██████████████████░░ 90.87%` |
+> | 💬 **Quote of the Day** | *“Make it work, make it right, make it fast.” – Kent Beck* |
 <!-- END_SECTION:live_info -->
 
 ---
